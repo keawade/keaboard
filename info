@@ -1,0 +1,38 @@
+{
+  "uuid": "dac69ae859cb7edd670da1c1186dfd32",
+  "path": "Offline/keaboard",
+  "name": "keaboard",
+  "content": "",
+  "created_at": "2020-06-27 22:19:51",
+  "updated_at": "2020-08-18 07:16:01",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "454af78ac3ebd3133243309ea88b192f",
+      "puuid": "dac69ae859cb7edd670da1c1186dfd32",
+      "title": "Left",
+      "filename": "Left.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6990cff909d44b6aa3f12d12150c6f95": 25,
+        "1ac17da78ee54e26a5f22af090163431": 1,
+        "b163f36c2a0f49aba18f97fe65a46300": 1,
+        "e2096ee6850041cb9bf9d82062cd25c3": 25
+      },
+      "BOM": [],
+      "updateTime": 1597752961,
+      "createTime": 1593317082,
+      "histories": [],
+      "created_at": "2020-06-27 23:04:42",
+      "updated_at": "2020-08-18 07:16:01"
+    }
+  ],
+  "sort": [],
+  "title": "keaboard",
+  "foldername": "keaboard",
+  "schfilename": "keaboard.json",
+  "schfilemtime": 1593314391748.3933
+}
