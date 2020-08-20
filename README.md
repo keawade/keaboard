@@ -9,7 +9,14 @@ but should work with Pro Micros or Elite-Cs.
 
 Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
-## Work in progress
+## Primary Features
+
+- Split
+- Ortho stagger
+- Wireless option
+- Hotswap MX switches
+
+## Work In Progress
 
 ![WIP](./images/WIP_2020-08-20%2008-26-05.png)
 
@@ -31,6 +38,13 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - How to handle odd number of keys in the thumb cluster?
   - I'm assuming I can have my column switch count be 4, 4, 4, 4, 4, 3, 2 but does 
     that impact programming?
+
+## Potential Future Revisions
+
+- Choc hotswap
+- RGB underglow
+- LED backlight
+- RGB backlight
 
 [nicenano]: https://docs.nicekeyboards.com/#/nice!nano/
 [ergotravel]: https://github.com/jpconstantineau/ErgoTravel
