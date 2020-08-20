@@ -15,10 +15,11 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ## Todo
 
-* Add reset switch
-* Add power switch
-* Connect matrix to controller pins
-* Design plates
+- Add reset switch
+- Add power switch
+- Connect matrix to controller pins
+- Design plates
+- Clean up project directory
 
 ## Questions
 
