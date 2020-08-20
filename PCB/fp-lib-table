@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/keyswitches.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/keyboard_parts.pretty)(options "")(descr ""))
+)

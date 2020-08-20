@@ -1,0 +1,12 @@
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "keyswitches.pretty"]
+	path = keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git
+[submodule "keyboard_parts.pretty"]
+	path = keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git
+[submodule "kicad_lib_tmk"]
+	path = kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
