@@ -32,8 +32,6 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - Does power switch need to be in-line of the power input?
   - If so, should it be on B+ or B-?
   - If not, what pins do I connect with the power switch?
-- Are my traces done correctly? I think I need to put one set of the matrix on another
-  copper layer.
 
 ## Potential Future Revisions
 
