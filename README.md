@@ -34,9 +34,6 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
   - If not, what pins do I connect with the power switch?
 - Are my traces done correctly? I think I need to put one set of the matrix on another
   copper layer.
-- How to handle odd number of keys in the thumb cluster?
-  - I'm assuming I can have my column switch count be 4, 4, 4, 4, 4, 3, 2 but does 
-    that impact programming?
 
 ## Potential Future Revisions
 
