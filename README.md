@@ -22,7 +22,9 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ## Todo
 
-- Add power switch
+- Move power connection from B+/B- to RAW/GND
+- Add 3-pin JST plug for easier battery connection
+- Add power switch to positive side of battery
 - Design plates
 - Add screw holes for attaching plates
 - Clean up project directory
