@@ -18,13 +18,13 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ## Work In Progress
 
-![WIP](./images/WIP_2020-08-20%2019-56-42.png)
+![WIP](./images/WIP_2020-08-20%2020-38-02.png)
 
 ## Todo
 
-- Add reset switch
 - Add power switch
 - Design plates
+- Add screw holes for attaching plates
 - Clean up project directory
 
 ## Questions
