@@ -1,6 +1,6 @@
 (fp_lib_table
-  (lib (name Keebio-Parts)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/Keebio-Parts.pretty)(options "")(descr ""))
-  (lib (name keyswitches)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/keyswitches.pretty)(options "")(descr ""))
-  (lib (name keyboard_parts)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/keyboard_parts.pretty)(options "")(descr ""))
-  (lib (name parts)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/parts.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/shared/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/shared/keyswitches.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/shared/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name parts)(type KiCad)(uri /home/keawade/Code/Projects/keaboard/shared/parts.pretty)(options "")(descr ""))
 )
