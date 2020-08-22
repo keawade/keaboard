@@ -18,7 +18,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ## Work In Progress
 
-![WIP](./images/WIP_2020-08-20%2020-53-22.png)
+![WIP](./PCB/images/WIP_2020-08-22%2013-55-36.png)
 
 ## Todo
 
