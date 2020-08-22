@@ -4,7 +4,7 @@ A split ergo 4x6 keyboard designed by Keith Wade.
 
 ![keaboard](./images/keaboard_render.png)
 
-Designed for use with the [nice!nano][nicenano] USB-C Bluetooth Pro Micro replacement
+Designed for use with the [nice!nano][nicenanoDocs] USB-C Bluetooth Pro Micro replacement
 but should work with Pro Micros or Elite-Cs.
 
 Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
@@ -27,13 +27,19 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - Add power switch to positive side of battery
 - Design plates
 - Add screw holes for attaching plates
-- Clean up project directory
 
-## Questions
+## Parts List
 
-- Does power switch need to be in-line of the power input?
-  - If so, should it be on B+ or B-?
-  - If not, what pins do I connect with the power switch?
+| Qty                | Part                         |
+| ------------------ | ---------------------------- |
+| 2                  | [nice!nano][nicenanoStore]   |
+| 2                  | Mill-Max low profile sockets |
+| 24 (get extra tho) | Mill-Max low profile pins    |
+| 2                  | [DF3A-3P-2DS][batterySocket] |
+| 2                  | 3.7v rechargeable battery    |
+| 50                 | Kailh MX hotswap sockets     |
+| 50                 | MX compatible switches       |
+| 50                 | 1N4148 SMD diodes            |
 
 ## Potential Future Revisions
 
@@ -42,5 +48,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - LED backlight
 - RGB backlight
 
-[nicenano]: https://docs.nicekeyboards.com/#/nice!nano/
+[nicenanoDocs]: https://docs.nicekeyboards.com/#/nice!nano/
+[nicenanoStore]: https://splitkb.com/collections/keyboard-parts/products/nice-nano-rev1-0
 [ergotravel]: https://github.com/jpconstantineau/ErgoTravel
+[batterySocket]: https://www.digikey.com/product-detail/en/DF3A-3P-2DS/H3894-ND/560460
