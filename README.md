@@ -15,18 +15,19 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - Ortho stagger
 - Wireless option
 - Hotswap MX switches
+- Reversible PCB
 
-## Work In Progress
+### Reversible PCB footprints
 
-![WIP](./PCB/images/WIP_2020-08-22%2013-55-36.png)
+![Reversible footprints](./PCB/keaboard_rev1/images/WIP_2020-08-22%2015-57-15.png)
 
-## Todo
+## Notes for WIP
 
-- Move power connection from B+/B- to RAW/GND
-- Add 3-pin JST plug for easier battery connection
-- Add power switch to positive side of battery
-- Design plates
-- Add screw holes for attaching plates
+- Connect power to RAW/GND instead of B+/B-
+- Use 3-pin JST plug for easier battery connection
+- Place power switch on positive side of battery connection
+- Use tip, ring, sleeve for communication so cables with only one ring will still
+  work
 
 ## Parts List
 
