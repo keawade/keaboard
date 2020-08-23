@@ -24,7 +24,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ### Reversible PCB footprints
 
-![Reversible footprints](./PCB/keaboard_rev1/images/WIP_2020-08-22%2015-57-15.png)
+![Reversible footprints](./PCB/keaboard_rev1/images/WIP_2020-08-22%2022-06-43.png)
 
 ## Notes for WIP
 
@@ -36,16 +36,19 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ## Parts List
 
-| Qty                | Part                         |
-| ------------------ | ---------------------------- |
-| 2                  | [nice!nano][nicenanoStore]   |
-| 2                  | Mill-Max low profile sockets |
-| 24 (get extra tho) | Mill-Max low profile pins    |
-| 2                  | [DF3A-3P-2DS][batterySocket] |
-| 2                  | 3.7v rechargeable battery    |
-| 50                 | Kailh MX hotswap sockets     |
-| 50                 | MX compatible switches       |
-| 50                 | 1N4148 SMD diodes            |
+| Qty                      | Part                                     |
+| ------------------------ | ---------------------------------------- |
+| 2                        | [nice!nano][nicenanoStore]               |
+| 2 sets of 12 pins        | Mill-Max low profile sockets             |
+| 24 (get extra though)    | Mill-Max low profile pins                |
+| 2                        | [DF3A-3P-2DS][batterySocket]             |
+| 2                        | 3.7v rechargeable battery                |
+| 50                       | Kailh MX hotswap sockets                 |
+| 50                       | MX compatible switches                   |
+| 50                       | [1N4148W SMD diodes][diodes]             |
+| 2                        | [CUS-12TB][slideSwitch]                  |
+| 2 (optional if wireless) | PJ-320A TRRS female jack                 |
+| 2                        | [EVQ-9P701P tactile switch](resetSwitch) |
 
 ## Potential Future Revisions
 
@@ -58,3 +61,6 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 [nicenanoStore]: https://splitkb.com/collections/keyboard-parts/products/nice-nano-rev1-0
 [ergotravel]: https://github.com/jpconstantineau/ErgoTravel
 [batterySocket]: https://www.digikey.com/product-detail/en/DF3A-3P-2DS/H3894-ND/560460
+[diodes]: https://www.digikey.com/product-detail/en/1N4148W-G+RHG/1N4148W-GRHGCT-ND/7644279
+[slideSwitch]: https://www.digikey.com/product-detail/en/nidec-copal-electronics/CUS-12TB/563-1102-1-ND/1124231
+[resetSwitch]: https://www.digikey.com/product-detail/en/panasonic-electronic-components/EVQ-9P701P/P19095CT-ND/5872974
