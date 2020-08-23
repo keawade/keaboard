@@ -39,8 +39,8 @@ $Comp
 L promicro:ProMicro U1
 U 1 1 5F595947
 P 2150 6550
-F 0 "U1" H 2150 7587 60  0000 C CNN
-F 1 "ProMicro" H 2150 7481 60  0000 C CNN
+F 0 "U1" H 2150 7481 60  0000 C CNN
+F 1 "ProMicro" H 2150 7481 60  0001 C CNN
 F 2 "parts:ArduinoProMicro_Reversible" H 2150 7481 60  0001 C CNN
 F 3 "" H 2250 5500 60  0000 C CNN
 	1    2150 6550
@@ -961,8 +961,8 @@ $Comp
 L Switch:SW_MEC_5G SW_RST1
 U 1 1 5F827A03
 P 4400 6100
-F 0 "SW_RST1" H 4400 6385 50  0000 C CNN
-F 1 "SW_EVQ-9P701P" H 4400 6294 50  0000 C CNN
+F 0 "SW_RST1" H 4400 6293 50  0000 C CNN
+F 1 "SW_EVQ-9P701P" H 4400 6294 50  0001 C CNN
 F 2 "parts:SW_EVQ-9P701P_reversible" H 4400 6293 50  0001 C CNN
 F 3 "" H 4400 6300 50  0001 C CNN
 	1    4400 6100
@@ -974,8 +974,6 @@ Text GLabel 2850 6000 2    50   Input ~ 0
 RST
 Text GLabel 2850 5800 2    50   Input ~ 0
 PWR
-Text GLabel 4200 6100 0    50   Input ~ 0
-GND
 Text GLabel 4600 6100 2    50   Input ~ 0
 RST
 $Comp
@@ -1013,10 +1011,6 @@ NoConn ~ 1450 6300
 NoConn ~ 1450 6400
 NoConn ~ 2850 6200
 NoConn ~ 2850 6100
-Text GLabel 1450 6100 0    50   Input ~ 0
-GND
-Text GLabel 1450 6000 0    50   Input ~ 0
-GND
 Text GLabel 3950 6700 0    50   Input ~ 0
 GND
 $Comp
@@ -1033,18 +1027,16 @@ $EndComp
 Wire Wire Line
 	3950 6700 4050 6700
 $Comp
-L Connector:AudioPlug4 J1
+L Connector:AudioPlug4 TRRS1
 U 1 1 5F9D9D98
 P 6300 6000
-F 0 "J1" H 5770 5908 50  0000 R CNN
-F 1 "TRRS Jack" H 5770 5999 50  0000 R CNN
+F 0 "TRRS1" H 5770 5954 50  0000 R CNN
+F 1 "TRRS Jack" H 5770 5999 50  0001 R CNN
 F 2 "parts:TRRS-PJ-320A_reversible" H 6650 5900 50  0001 C CNN
 F 3 "~" H 6650 5900 50  0001 C CNN
 	1    6300 6000
 	-1   0    0    1   
 $EndComp
-Text GLabel 5700 6100 0    50   Input ~ 0
-GND
 Text GLabel 2850 6300 2    50   Input ~ 0
 TRRS_TIP
 Text GLabel 5700 5800 0    50   Input ~ 0
@@ -1054,4 +1046,12 @@ TRRS_SLEEVE
 Text GLabel 1450 6200 0    50   Input ~ 0
 TRRS_SLEEVE
 NoConn ~ 5700 5900
+Text GLabel 5700 6100 0    50   Input ~ 0
+GND
+Text GLabel 4200 6100 0    50   Input ~ 0
+GND
+Text GLabel 1450 6000 0    50   Input ~ 0
+GND
+Text GLabel 1450 6100 0    50   Input ~ 0
+GND
 $EndSCHEMATC

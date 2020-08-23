@@ -971,11 +971,11 @@ $EndComp
 Text GLabel 2850 5900 2    50   Input ~ 0
 GND
 Text GLabel 2850 6000 2    50   Input ~ 0
-RST
+RESET
 Text GLabel 2850 5800 2    50   Input ~ 0
 PWR
 Text GLabel 4600 6100 2    50   Input ~ 0
-RST
+RESET
 $Comp
 L Switch:SW_Push_SPDT SW_PWR1
 U 1 1 5F83E72F
