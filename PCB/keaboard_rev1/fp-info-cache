@@ -1,4 +1,4 @@
-19050930704198695
+19052529027945695
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83846,6 +83846,13 @@ DF3A-3P-2DS
 3
 3
 parts
+DF3A-3P-2DS_reversible
+
+
+0
+3
+2
+parts
 D_SOD123_reversible
 
 
@@ -83872,7 +83879,7 @@ SW_EVQ-9P701P_reversible
 
 0
 10
-2
+4
 parts
 SW_PCM12SMTR
 
