@@ -26,14 +26,6 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ![Reversible footprints](./PCB/keaboard_rev1/images/WIP_2020-08-22%2015-57-15.png)
 
-## Notes for WIP
-
-- Connect power to RAW/GND instead of B+/B-
-- Use 3-pin JST plug for easier battery connection
-- Place power switch on positive side of battery connection
-- Use tip, ring, sleeve for communication so cables with only one ring will still
-  work
-
 ## Parts List
 
 | Qty                      | Part                                     |
