@@ -229,7 +229,7 @@
   )
 
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 5F4D12C1)
-    (at 140.462 89.789)
+    (at 141.256 89.662)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr virtual)
@@ -286,7 +286,7 @@
   )
 
   (module MountingHole:MountingHole_2.2mm_M2 (layer F.Cu) (tedit 56D1B4CB) (tstamp 5F4D1221)
-    (at 143.256 51.062)
+    (at 142.256 51.562)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr virtual)
