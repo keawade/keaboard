@@ -33,7 +33,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 | 2                        | [nice!nano][nicenanoStore]               |
 | 2 sets of 12 pins        | Mill-Max low profile sockets             |
 | 24 (get extra though)    | Mill-Max low profile pins                |
-| 2                        | [DF3A-3P-2DS][batterySocket]             |
+| 2                        | [3-pin socket][batterySocket]            |
 | 2                        | 3.7v rechargeable battery                |
 | 50                       | Kailh MX hotswap sockets                 |
 | 50                       | MX compatible switches                   |
@@ -52,7 +52,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 [nicenanoDocs]: https://docs.nicekeyboards.com/#/nice!nano/
 [nicenanoStore]: https://splitkb.com/collections/keyboard-parts/products/nice-nano-rev1-0
 [ergotravel]: https://github.com/jpconstantineau/ErgoTravel
-[batterySocket]: https://www.digikey.com/product-detail/en/DF3A-3P-2DS/H3894-ND/560460
+[batterySocket]: ???
 [diodes]: https://www.digikey.com/product-detail/en/1N4148W-G+RHG/1N4148W-GRHGCT-ND/7644279
 [slideSwitch]: https://www.digikey.com/product-detail/en/nidec-copal-electronics/CUS-12TB/563-1102-1-ND/1124231
 [resetSwitch]: https://www.digikey.com/product-detail/en/panasonic-electronic-components/EVQ-9P701P/P19095CT-ND/5872974

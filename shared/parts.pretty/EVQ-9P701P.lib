@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# EVQ-9P701P
+#
+DEF EVQ-9P701P S 0 40 Y N 1 L N
+F0 "S" -300 200 50 H V L BNN
+F1 "EVQ-9P701P" -300 150 50 H V L BNN
+F2 "SW_EVQ-9P701P" 0 0 50 H I L BNN
+F3 "1.35mm" 0 0 50 H I L BNN
+F4 "Panasonic" 0 0 50 H I L BNN
+F5 "N/A" 0 0 50 H I L BNN
+F6 "Manufacturer Recommendations" 0 0 50 H I L BNN
+DRAW
+C 100 0 13 0 0 6 N
+P 2 0 0 6 200 0 115 0 N
+P 2 0 0 6 -115 0 -200 0 N
+C -100 0 13 0 0 6 N
+P 2 0 0 6 -90 10 70 90 N
+X ~ 1A -300 0 100 R 40 40 0 0 P 
+X ~ 1B -300 0 100 R 40 40 0 0 P 
+X ~ 2A 300 0 100 L 40 40 0 0 P 
+X ~ 2B 300 0 100 L 40 40 0 0 P 
+X ~ 2C 300 0 100 L 40 40 0 0 P 
+X ~ 2D 300 0 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

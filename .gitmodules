@@ -10,3 +10,6 @@
 [submodule "kicad_lib_tmk"]
 	path = shared/kicad_lib_tmk
 	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "shared/ProMicroKiCad"]
+	path = shared/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad.git

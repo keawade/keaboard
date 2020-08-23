@@ -1,4 +1,4 @@
-19041341498267695
+19050930677594695
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83832,12 +83832,33 @@ ArduinoProMicroPins-TopSide
 24
 24
 parts
+ArduinoProMicro_Reversible
+
+
+0
+48
+24
+parts
 DF3A-3P-2DS
 
 
 0
 3
 3
+parts
+D_SOD123_reversible
+
+
+0
+4
+2
+parts
+Kailh_socket_MX_reversible
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
 parts
 SW_EVQ-9P701P
 
@@ -83846,9 +83867,30 @@ SW_EVQ-9P701P
 6
 6
 parts
+SW_EVQ-9P701P_reversible
+
+
+0
+10
+6
+parts
 SW_PCM12SMTR
 
 
 0
 7
 7
+parts
+SW_PCM12SMTR_reversible
+
+
+0
+14
+7
+parts
+TRRS-PJ-320A_reversible
+
+
+0
+8
+4
