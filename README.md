@@ -17,9 +17,9 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - Hotswap MX switches
 - Reversible PCB
 
-## Work In Progress
+## Current Revision
 
-![WIP](./PCB/keaboard_rev1/images/WIP_2020-08-22%2022-06-43.png)
+![Current revision](./PCB/keaboard_rev1/images/WIP_2020-08-22%2023-34-56.png)
 
 
 ### Reversible PCB footprints
