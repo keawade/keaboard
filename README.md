@@ -55,7 +55,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 [nicenanoDocs]: https://docs.nicekeyboards.com/#/nice!nano/
 [nicenanoStore]: https://splitkb.com/collections/keyboard-parts/products/nice-nano-rev1-0
 [ergotravel]: https://github.com/jpconstantineau/ErgoTravel
-[batterySocket]: ???
+[batterySocket]: https://www.digikey.com/product-detail/en/DF3A-3P-2DS/H3894-ND/560460
 [diodes]: https://www.digikey.com/product-detail/en/1N4148W-G+RHG/1N4148W-GRHGCT-ND/7644279
 [slideSwitch]: https://www.digikey.com/product-detail/en/nidec-copal-electronics/CUS-12TB/563-1102-1-ND/1124231
 [resetSwitch]: https://www.digikey.com/product-detail/en/panasonic-electronic-components/EVQ-9P701P/P19095CT-ND/5872974
