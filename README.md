@@ -7,9 +7,7 @@ but should work with Pro Micros or Elite-Cs.
 
 Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
-![keaboard](./images/keaboard_layout_render.png)
-
-![keaboard pcb](./images/keaboard_rev1_pcb_render.png)
+![keaboard](./images/keaboard-rev1-pcb-render.png)
 
 ## Primary Features
 
@@ -21,7 +19,15 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ## Revision 1
 
-![rev1](./images/keaboard_rev1.png)
+### PCB
+
+![keaboard pcb](./images/keaboard-rev1-pcb-kicad.png)
+
+### PCB Case
+
+![Top plate](./images/keaboard-rev1-case-top-plate.png)
+
+![Bottom plate](./images/keaboard-rev1-case-bottom-plate.png)
 
 ## Parts List
 
@@ -53,6 +59,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - RGB underglow
 - LED backlight
 - RGB backlight
+- Design case for either 3D printing or CNC
 
 [nicenanoDocs]: https://docs.nicekeyboards.com/#/nice!nano/
 [nicenanoStore]: https://splitkb.com/collections/keyboard-parts/products/nice-nano-rev1-0
