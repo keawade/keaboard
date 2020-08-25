@@ -2,12 +2,14 @@
 
 A split ergo 4x6 keyboard designed by Keith Wade.
 
-![keaboard](./images/keaboard_render.png)
-
 Designed for use with the [nice!nano][nicenanoDocs] USB-C Bluetooth Pro Micro replacement
 but should work with Pro Micros or Elite-Cs.
 
 Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
+
+![keaboard](./images/keaboard_layout_render.png)
+
+![keaboard pcb](./images/keaboard_rev1_pcb_render.png)
 
 ## Primary Features
 
