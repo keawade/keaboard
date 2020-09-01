@@ -46,27 +46,27 @@ F 3 "" H 2250 5500 60  0000 C CNN
 	1    2150 6550
 	1    0    0    -1  
 $EndComp
-Text GLabel 2850 6400 2    50   Input ~ 0
-COL7
-Text GLabel 1450 6900 0    50   Input ~ 0
-COL1
 Text GLabel 2850 6900 2    50   Input ~ 0
+COL7
+Text GLabel 2850 6300 2    50   Input ~ 0
+COL1
+Text GLabel 2850 6400 2    50   Input ~ 0
 COL2
-Text GLabel 2850 6800 2    50   Input ~ 0
-COL3
-Text GLabel 2850 6700 2    50   Input ~ 0
-COL4
-Text GLabel 2850 6600 2    50   Input ~ 0
-COL5
 Text GLabel 2850 6500 2    50   Input ~ 0
+COL3
+Text GLabel 2850 6600 2    50   Input ~ 0
+COL4
+Text GLabel 2850 6700 2    50   Input ~ 0
+COL5
+Text GLabel 2850 6800 2    50   Input ~ 0
 COL6
-Text GLabel 1450 6700 0    50   Input ~ 0
-ROW3
-Text GLabel 1450 6600 0    50   Input ~ 0
-ROW2
-Text GLabel 1450 6500 0    50   Input ~ 0
-ROW1
 Text GLabel 1450 6800 0    50   Input ~ 0
+ROW3
+Text GLabel 1450 6700 0    50   Input ~ 0
+ROW2
+Text GLabel 1450 6600 0    50   Input ~ 0
+ROW1
+Text GLabel 1450 6900 0    50   Input ~ 0
 ROW4
 Wire Wire Line
 	1350 1850 1350 1600
@@ -996,8 +996,6 @@ NoConn ~ 1450 5800
 NoConn ~ 1450 5900
 NoConn ~ 1450 6300
 NoConn ~ 1450 6400
-NoConn ~ 2850 6200
-NoConn ~ 2850 6100
 Text GLabel 3850 6700 0    50   Input ~ 0
 GND
 $Comp
@@ -1024,14 +1022,14 @@ F 3 "~" H 6650 5900 50  0001 C CNN
 	1    6300 6000
 	-1   0    0    1   
 $EndComp
-Text GLabel 2850 6300 2    50   Input ~ 0
-TRRS_TIP
+Text GLabel 2850 6200 2    50   Input ~ 0
+SOFT_SERIAL_PIN
 Text GLabel 5700 5800 0    50   Input ~ 0
-TRRS_TIP
+SOFT_SERIAL_PIN
 Text GLabel 5700 6000 0    50   Input ~ 0
-TRRS_SLEEVE
-Text GLabel 1450 6200 0    50   Input ~ 0
-TRRS_SLEEVE
+VCC
+Text GLabel 2850 6100 2    50   Input ~ 0
+VCC
 NoConn ~ 5700 5900
 Text GLabel 5700 6100 0    50   Input ~ 0
 GND
@@ -1054,4 +1052,6 @@ F 3 "~" V 4750 6860 50  0001 C CNN
 	1    4750 6800
 	0    1    1    0   
 $EndComp
+NoConn ~ 1450 6200
+NoConn ~ 1450 6500
 $EndSCHEMATC

@@ -7,7 +7,7 @@ but should work with Pro Micros or Elite-Cs.
 
 Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
-![keaboard](./images/keaboard-rev1-pcb-render.png)
+![keaboard](./PCB/keaboard_rev1/images/WIP_2020-08-31%2022-45-34.png)
 
 ## Primary Features
 
@@ -16,18 +16,6 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - Wireless option
 - Hotswap MX switches
 - Reversible PCB
-
-## Revision 1
-
-### PCB
-
-![keaboard pcb](./images/keaboard-rev1-pcb-kicad.png)
-
-### PCB Case
-
-![Top plate](./images/keaboard-rev1-case-top-plate.png)
-
-![Bottom plate](./images/keaboard-rev1-case-bottom-plate.png)
 
 ## Parts List
 
