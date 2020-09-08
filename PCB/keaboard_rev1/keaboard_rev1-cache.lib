@@ -1,33 +1,6 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Connector_AudioPlug4
-#
-DEF Connector_AudioPlug4 J 0 20 Y Y 1 F N
-F0 "J" 400 200 50 H V C CNN
-F1 "Connector_AudioPlug4" 450 -300 50 H V C CNN
-F2 "" 350 -100 50 H I C CNN
-F3 "" 350 -100 50 H I C CNN
-$FPLIST
- Plug*
-$ENDFPLIST
-DRAW
-T 900 -100 -50 50 0 0 0 R1 Normal 0 C C
-T 900 0 -50 50 0 0 0 R2 Normal 0 C C
-T 0 200 -50 50 0 0 0 S Normal 0 C C
-T 0 -350 -50 50 0 0 0 T Normal 0 C C
-S -50 100 -150 -200 0 1 10 f
-S 50 100 -50 -200 0 1 10 f
-S 50 100 350 -200 0 1 10 f
-S 500 150 350 -250 0 1 10 f
-P 11 0 1 10 -150 100 -200 100 -250 50 -400 100 -500 0 -500 -100 -400 -200 -250 -150 -200 -200 -150 -200 -150 100 f
-X ~ R1 600 -100 100 L 50 50 1 1 P
-X ~ R2 600 0 100 L 50 50 1 1 P
-X ~ S 600 100 100 L 50 50 1 1 P
-X ~ T 600 -200 100 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # Device_Battery
 #
 DEF Device_Battery BT 0 0 N N 1 F N
@@ -68,7 +41,7 @@ C -80 0 20 0 1 0 N
 C 80 0 20 0 1 0 N
 P 2 0 1 0 0 50 0 120 N
 P 2 0 1 0 100 50 -100 50 N
-X A 1 -200 0 100 R 50 50 0 1 P
+X A 1 -200 0 100 R 50 50 0 1 P N
 X B 3 200 0 100 L 50 50 0 1 P
 X A 2 -200 0 100 R 50 50 1 1 P N
 X B 4 200 0 100 L 50 50 1 1 P N
@@ -91,6 +64,33 @@ P 2 0 1 0 -60 10 100 80 N
 X A 1 200 100 100 L 50 50 1 1 P
 X B 2 -200 0 100 R 50 50 1 1 P
 X C 3 200 -100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# keaboard_rev1-rescue_AudioPlug4-Connector
+#
+DEF keaboard_rev1-rescue_AudioPlug4-Connector J 0 20 Y Y 1 F N
+F0 "J" 400 200 50 H V C CNN
+F1 "keaboard_rev1-rescue_AudioPlug4-Connector" 450 -300 50 H V C CNN
+F2 "" 350 -100 50 H I C CNN
+F3 "" 350 -100 50 H I C CNN
+$FPLIST
+ Plug*
+$ENDFPLIST
+DRAW
+T 900 -100 -50 50 0 0 0 R1 Normal 0 C C
+T 900 0 -50 50 0 0 0 R2 Normal 0 C C
+T 0 200 -50 50 0 0 0 S Normal 0 C C
+T 0 -350 -50 50 0 0 0 T Normal 0 C C
+S -50 100 -150 -200 0 1 10 f
+S 50 100 -50 -200 0 1 10 f
+S 50 100 350 -200 0 1 10 f
+S 500 150 350 -250 0 1 10 f
+P 11 0 1 10 -150 100 -200 100 -250 50 -400 100 -500 0 -500 -100 -400 -200 -250 -150 -200 -200 -150 -200 -150 100 f
+X ~ R1 600 -100 100 L 50 50 1 1 P
+X ~ R2 600 0 100 L 50 50 1 1 P
+X ~ S 600 100 100 L 50 50 1 1 P
+X ~ T 600 -200 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

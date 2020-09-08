@@ -4,4 +4,5 @@
   (lib (name EVQ-9P701P)(type Legacy)(uri /home/keawade/Code/Projects/keaboard/shared/parts.pretty/EVQ-9P701P.lib)(options "")(descr ""))
   (lib (name PCM12SMTR)(type Legacy)(uri /home/keawade/Code/Projects/keaboard/shared/parts.pretty/PCM12SMTR.lib)(options "")(descr ""))
   (lib (name promicro)(type Legacy)(uri /home/keawade/Code/Projects/keaboard/shared/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name keaboard_rev1-rescue)(type Legacy)(uri ${KIPRJMOD}/keaboard_rev1-rescue.lib)(options "")(descr ""))
 )

@@ -35,17 +35,6 @@ Text GLabel 7300 950  1    50   Input ~ 0
 COL5
 Text GLabel 8550 950  1    50   Input ~ 0
 COL6
-$Comp
-L promicro:ProMicro U1
-U 1 1 5F595947
-P 2150 6550
-F 0 "U1" H 2150 7481 60  0000 C CNN
-F 1 "ProMicro" H 2150 7481 60  0001 C CNN
-F 2 "parts:ArduinoProMicro_Reversible" H 2150 7481 60  0001 C CNN
-F 3 "" H 2250 5500 60  0000 C CNN
-	1    2150 6550
-	1    0    0    -1  
-$EndComp
 Text GLabel 2850 6900 2    50   Input ~ 0
 COL7
 Text GLabel 2850 6300 2    50   Input ~ 0
@@ -994,8 +983,6 @@ RAW
 NoConn ~ 5500 6900
 NoConn ~ 1450 5800
 NoConn ~ 1450 5900
-NoConn ~ 1450 6300
-NoConn ~ 1450 6400
 Text GLabel 3850 6700 0    50   Input ~ 0
 GND
 $Comp
@@ -1012,7 +999,7 @@ $EndComp
 Wire Wire Line
 	3850 6700 3950 6700
 $Comp
-L Connector:AudioPlug4 TRRS1
+L keaboard_rev1-rescue:AudioPlug4-Connector TRRS1
 U 1 1 5F9D9D98
 P 6300 6000
 F 0 "TRRS1" H 5770 5954 50  0000 R CNN
@@ -1022,7 +1009,7 @@ F 3 "~" H 6650 5900 50  0001 C CNN
 	1    6300 6000
 	-1   0    0    1   
 $EndComp
-Text GLabel 2850 6200 2    50   Input ~ 0
+Text GLabel 1450 6300 0    50   Input ~ 0
 SOFT_SERIAL_PIN
 Text GLabel 5700 5800 0    50   Input ~ 0
 SOFT_SERIAL_PIN
@@ -1054,4 +1041,17 @@ F 3 "~" V 4750 6860 50  0001 C CNN
 $EndComp
 NoConn ~ 1450 6200
 NoConn ~ 1450 6500
+NoConn ~ 2850 6200
+$Comp
+L promicro:ProMicro U1
+U 1 1 5F595947
+P 2150 6550
+F 0 "U1" H 2150 7481 60  0000 C CNN
+F 1 "ProMicro" H 2150 7481 60  0001 C CNN
+F 2 "parts:ArduinoProMicro_Reversible" H 2150 7481 60  0001 C CNN
+F 3 "" H 2250 5500 60  0000 C CNN
+	1    2150 6550
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1450 6400
 $EndSCHEMATC
