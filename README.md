@@ -7,7 +7,7 @@ but should work with Pro Micros or Elite-Cs.
 
 Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
-![keaboard](./images/keaboard-rev1-pcb-render.png)
+![keaboard](./images/keaboard.jpg)
 
 ## Primary Features
 
@@ -21,7 +21,9 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ### PCB
 
-![keaboard pcb](./PCB/keaboard_rev1/images/WIP_2020-09-01%2020-43-06.png)
+![keaboard pcb render](./images/keaboard-rev1-pcb-render.png)
+
+![keaboard pcb design](./PCB/keaboard_rev1/images/WIP_2020-09-09%2007-49-10.png)
 
 ### PCB Case
 
