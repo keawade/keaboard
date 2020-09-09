@@ -1,15 +1,14 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,5.1.6-c6e7f7d~87~ubuntu20.04.1*%
-%TF.CreationDate,2020-09-01T21:04:00-05:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.5+dfsg1-2build2*%
+%TF.CreationDate,2020-09-09T08:01:59-05:00*%
 %TF.ProjectId,keaboard_rev1,6b656162-6f61-4726-945f-726576312e6b,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.1.6-c6e7f7d~87~ubuntu20.04.1) date 2020-09-01 21:04:00*
+G04 Created by KiCad (PCBNEW 5.1.5+dfsg1-2build2) date 2020-09-09 08:01:59*
 %MOMM*%
 %LPD*%
-G01*
 G04 APERTURE LIST*
 %ADD10C,2.300000*%
 %ADD11C,3.100000*%
@@ -28,22 +27,22 @@ G04 APERTURE LIST*
 %ADD24R,1.600000X0.800000*%
 G04 APERTURE END LIST*
 D10*
-%TO.C,REF\u002A\u002A*%
+%TO.C,REF\002A\002A*%
 X145552000Y-82169000D03*
 %TD*%
-%TO.C,REF\u002A\u002A*%
+%TO.C,REF\002A\002A*%
 X145552000Y-120396000D03*
 %TD*%
-%TO.C,REF\u002A\u002A*%
+%TO.C,REF\002A\002A*%
 X97917000Y-77089000D03*
 %TD*%
-%TO.C,REF\u002A\u002A*%
+%TO.C,REF\002A\002A*%
 X97917000Y-115189000D03*
 %TD*%
-%TO.C,REF\u002A\u002A*%
+%TO.C,REF\002A\002A*%
 X50302000Y-122769000D03*
 %TD*%
-%TO.C,REF\u002A\u002A*%
+%TO.C,REF\002A\002A*%
 X50292000Y-84669000D03*
 %TD*%
 D11*
