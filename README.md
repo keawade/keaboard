@@ -23,7 +23,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
 ![keaboard pcb render](./images/keaboard-rev1-pcb-render.png)
 
-![keaboard pcb design](./PCB/keaboard_rev1/images/WIP_2020-09-09%2007-49-10.png)
+![keaboard pcb design](./PCB/keaboard_rev1/images/WIP_2020-09-11%2022-44-45.png)
 
 ### PCB Case
 
