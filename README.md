@@ -36,6 +36,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 | Qty                   | Part                                                                                      |
 | --------------------- | ----------------------------------------------------------------------------------------- |
 | 2                     | Pro Micro footprint compatible microcontroller (Recommend Elite-C if not using nice!nano) |
+| 50                    | MX compatible keyboard switches                                                           |  |
 | 2 sets of 12 pins     | Mill-Max low profile sockets                                                              |
 | 24 (get extra though) | Mill-Max low profile pins                                                                 |
 | 50                    | Kailh MX hotswap sockets                                                                  |
@@ -43,17 +44,18 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 | 50                    | [1N4148W SMD diodes][diodes]                                                              |
 | 2                     | PJ-320A TRRS female jack  (not required if wireless with nice!nano)                       |
 | 2                     | [EVQ-9P701P tactile switch](resetSwitch)                                                  |
+| 24                    | M2 x 4 mm screws                                                                          |
+| 12                    | M2 x 7mm stand offs                                                                       |
 
 ### Parts for Wireless Option
 
-| Qty | Part                                     |
-| --- | ---------------------------------------- |
-| 2   | [nice!nano][nicenanoStore]               |
-| 2   | [CUS-12TB][slideSwitch] for power switch |
-| 2   | 3.7v rechargeable battery                |
-| 2   | [3-pin socket][batterySocket]            |
-| 2   | 2-pin plug                               |
-
+| Qty | Part                                                             |
+| --- | ---------------------------------------------------------------- |
+| 2   | [nice!nano][nicenanoStore]                                       |
+| 2   | [CUS-12TB][slideSwitch] for power switch                         |
+| 2   | 3.7v rechargeable battery                                        |
+| 2   | [3-pin socket][batterySocket] (Can solder directly if preferred) |
+| 2   | 2-pin plug                                                       |
 
 ## Potential Future Revisions
 
