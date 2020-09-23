@@ -3,7 +3,7 @@
 A split ergo 4x6 keyboard designed by Keith Wade.
 
 Designed for use with the [nice!nano][nicenanoDocs] USB-C Bluetooth Pro Micro replacement
-but should work with Pro Micros or Elite-Cs.
+but also works with any Pro Micro compatible controllers like the Elite-C.
 
 Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
@@ -14,7 +14,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 - Split
 - Ortho stagger
 - Wireless option
-- Hotswap MX switches
+- Hot swap MX switches
 - Reversible PCB
 
 ## Revision 1
@@ -39,7 +39,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 | 50                    | MX compatible keyboard switches                                                           |  |
 | 2 sets of 12 pins     | Mill-Max low profile sockets                                                              |
 | 24 (get extra though) | Mill-Max low profile pins                                                                 |
-| 50                    | Kailh MX hotswap sockets                                                                  |
+| 50                    | Kailh MX hot swap sockets                                                                 |
 | 50                    | MX compatible switches                                                                    |
 | 50                    | [1N4148W SMD diodes][diodes]                                                              |
 | 2                     | PJ-320A TRRS female jack  (not required if wireless with nice!nano)                       |
@@ -57,9 +57,14 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 | 2   | [3-pin socket][batterySocket] (Can solder directly if preferred) |
 | 2   | 2-pin plug                                                       |
 
+## Firmware
+
+- [QMK Firmware][keaboardQmk]
+- [ZMK Firmware (WIP)][keaboardZmk]
+
 ## Potential Future Revisions
 
-- Choc hotswap
+- Choc hot swap
 - RGB underglow
 - LED backlight
 - RGB backlight
@@ -72,3 +77,5 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 [diodes]: https://www.digikey.com/product-detail/en/1N4148W-G+RHG/1N4148W-GRHGCT-ND/7644279
 [slideSwitch]: https://www.digikey.com/product-detail/en/nidec-copal-electronics/CUS-12TB/563-1102-1-ND/1124231
 [resetSwitch]: https://www.digikey.com/product-detail/en/panasonic-electronic-components/EVQ-9P701P/P19095CT-ND/5872974
+[keaboardQmk]: https://github.com/keawade/qmk_firmware/tree/keaboard
+[keaboardZmk]: https://github.com/keawade/zmk/tree/keaboard
