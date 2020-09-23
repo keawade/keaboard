@@ -7,7 +7,7 @@ but should work with Pro Micros or Elite-Cs.
 
 Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 
-![keaboard](./images/keaboard.jpg)
+![keaboard](./images/keaboard_rev1_final.jpg)
 
 ## Primary Features
 
