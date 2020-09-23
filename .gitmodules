@@ -13,3 +13,6 @@
 [submodule "shared/ProMicroKiCad"]
 	path = shared/ProMicroKiCad
 	url = https://github.com/Biacco42/ProMicroKiCad.git
+[submodule "shared/kbd"]
+	path = shared/kbd
+	url = https://github.com/foostan/kbd.git
