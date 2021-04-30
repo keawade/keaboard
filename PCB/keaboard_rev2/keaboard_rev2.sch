@@ -93,25 +93,23 @@ Text GLabel 5350 3300 1    50   Input ~ 0
 Col5
 Text GLabel 6250 3300 1    50   Input ~ 0
 Col6
-Text GLabel 9200 6050 0    50   Input ~ 0
-Col1
-Text GLabel 10600 6050 2    50   Input ~ 0
+Text GLabel 10600 5550 2    50   Input ~ 0
 Col2
-Text GLabel 10600 5950 2    50   Input ~ 0
-Col3
-Text GLabel 10600 5850 2    50   Input ~ 0
-Col4
-Text GLabel 10600 5750 2    50   Input ~ 0
-Col5
 Text GLabel 10600 5650 2    50   Input ~ 0
+Col3
+Text GLabel 10600 5750 2    50   Input ~ 0
+Col4
+Text GLabel 10600 5850 2    50   Input ~ 0
+Col5
+Text GLabel 10600 5950 2    50   Input ~ 0
 Col6
-Text GLabel 9200 5650 0    50   Input ~ 0
-Row1
 Text GLabel 9200 5750 0    50   Input ~ 0
-Row2
+Row1
 Text GLabel 9200 5850 0    50   Input ~ 0
-Row3
+Row2
 Text GLabel 9200 5950 0    50   Input ~ 0
+Row3
+Text GLabel 9200 6050 0    50   Input ~ 0
 Row4
 Text GLabel 7150 3300 1    50   Input ~ 0
 Col7
@@ -451,10 +449,6 @@ TRRS_R2
 Text GLabel 10100 3500 2    50   Input ~ 0
 GND
 NoConn ~ 10100 3700
-Text GLabel 10600 5450 2    50   Input ~ 0
-TRRS_T
-Text GLabel 9200 5350 0    50   Input ~ 0
-TRRS_R2
 Text GLabel 10200 4250 0    50   Input ~ 0
 GND
 $Comp
@@ -491,12 +485,10 @@ Text GLabel 10600 4950 2    50   Input ~ 0
 RAW
 Text GLabel 1200 1450 0    50   Input ~ 0
 RAW
-Text GLabel 10600 5350 2    50   Input ~ 0
+Text GLabel 9200 5650 0    50   Input ~ 0
 LED
-NoConn ~ 10600 5250
 NoConn ~ 9200 4950
 NoConn ~ 9200 5050
-NoConn ~ 9200 5450
 NoConn ~ 9200 5550
 Wire Wire Line
 	4700 6400 6500 6400
@@ -517,7 +509,7 @@ Wire Wire Line
 	3550 3300 3550 3450
 Wire Wire Line
 	6250 3300 6250 3450
-Text GLabel 10600 5550 2    50   Input ~ 0
+Text GLabel 10600 6050 2    50   Input ~ 0
 Col7
 Connection ~ 1850 1450
 Connection ~ 1850 850 
@@ -1464,4 +1456,12 @@ Connection ~ 10250 1700
 Connection ~ 10250 2300
 Wire Wire Line
 	10250 2300 10650 2300
+Text GLabel 10600 5250 2    50   Input ~ 0
+TRRS_R2
+Text GLabel 9200 5450 0    50   Input ~ 0
+TRRS_T
+Text GLabel 10600 5450 2    50   Input ~ 0
+Col1
+NoConn ~ 10600 5350
+NoConn ~ 9200 5350
 $EndSCHEMATC
