@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.25)
+    (last_trace_width 0.254)
     (user_trace_width 0.254)
     (user_trace_width 0.381)
     (trace_clearance 0.2)
@@ -168,7 +168,7 @@
 
   (net_class Default "This is the default net class."
     (clearance 0.2)
-    (trace_width 0.25)
+    (trace_width 0.254)
     (via_dia 0.8)
     (via_drill 0.4)
     (uvia_dia 0.3)
@@ -180,7 +180,6 @@
     (add_net Col5)
     (add_net Col6)
     (add_net Col7)
-    (add_net GND)
     (add_net LED)
     (add_net "Net-(D1-Pad2)")
     (add_net "Net-(D10-Pad2)")
@@ -238,7 +237,6 @@
     (add_net "Net-(U1-Pad20)")
     (add_net "Net-(U1-Pad5)")
     (add_net "Net-(U1-Pad7)")
-    (add_net RAW)
     (add_net RESET)
     (add_net Row1)
     (add_net Row2)
@@ -246,6 +244,17 @@
     (add_net Row4)
     (add_net TRRS_R2)
     (add_net TRRS_T)
+  )
+
+  (net_class Heavy ""
+    (clearance 0.2)
+    (trace_width 0.381)
+    (via_dia 0.8)
+    (via_drill 0.4)
+    (uvia_dia 0.3)
+    (uvia_drill 0.1)
+    (add_net GND)
+    (add_net RAW)
   )
 
   (module parts:ArduinoProMicro_Reversible (layer F.Cu) (tedit 5F4DA301) (tstamp 608BD600)
