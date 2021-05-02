@@ -6,4 +6,5 @@
   (lib (name parts)(type KiCad)(uri /home/keawade/Projects/keaboard/shared/parts.pretty)(options "")(descr ""))
   (lib (name ProMicroKiCad)(type KiCad)(uri /home/keawade/Projects/keaboard/shared/ProMicroKiCad)(options "")(descr ""))
   (lib (name kbd)(type KiCad)(uri /home/keawade/Projects/keaboard/shared/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name kicad-keyboard-parts)(type KiCad)(uri /home/keawade/Projects/keaboard/shared/kicad-keyboard-parts.pretty)(options "")(descr ""))
 )

@@ -1,3 +1,6 @@
 (sym_lib_table
   (lib (name promicro)(type Legacy)(uri /home/keawade/Projects/keaboard/shared/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name kicad-keyboard-parts)(type Legacy)(uri "/home/keawade/Projects/keaboard/shared/kicad-keyboard-parts.pretty/Schematic Library/kicad-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri /home/keawade/Projects/keaboard/shared/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri /home/keawade/Projects/keaboard/shared/kicad_lib_tmk/mkl27z256vfm4.lib)(options "")(descr ""))
 )

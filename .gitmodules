@@ -16,3 +16,6 @@
 [submodule "shared/kbd"]
 	path = shared/kbd
 	url = https://github.com/foostan/kbd.git
+[submodule "shared/kicad-keyboard-parts.pretty"]
+	path = shared/kicad-keyboard-parts.pretty
+	url = https://github.com/ebastler/kicad-keyboard-parts.pretty.git
