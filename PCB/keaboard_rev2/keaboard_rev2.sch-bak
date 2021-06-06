@@ -713,7 +713,7 @@ U 1 1 60FADED1
 P 7650 900
 F 0 "LED6" H 7306 854 50  0000 R CNN
 F 1 "SK6812MINI-E" H 7306 945 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 7700 600 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 7700 600 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7750 525 50  0001 L TNN
 	1    7650 900 
 	-1   0    0    1   
@@ -727,7 +727,7 @@ U 1 1 60FAEE20
 P 6400 900
 F 0 "LED5" H 6056 854 50  0000 R CNN
 F 1 "SK6812MINI-E" H 6056 945 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 6450 600 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 6450 600 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6500 525 50  0001 L TNN
 	1    6400 900 
 	-1   0    0    1   
@@ -744,7 +744,7 @@ U 1 1 60FB3872
 P 5150 900
 F 0 "LED4" H 4806 854 50  0000 R CNN
 F 1 "SK6812MINI-E" H 4806 945 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 5200 600 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 5200 600 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5250 525 50  0001 L TNN
 	1    5150 900 
 	-1   0    0    1   
@@ -755,7 +755,7 @@ U 1 1 60FB3934
 P 3900 900
 F 0 "LED3" H 3556 854 50  0000 R CNN
 F 1 "SK6812MINI-E" H 3556 945 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 3950 600 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 3950 600 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 525 50  0001 L TNN
 	1    3900 900 
 	-1   0    0    1   
@@ -778,7 +778,7 @@ U 1 1 60FBB177
 P 2650 900
 F 0 "LED2" H 2306 854 50  0000 R CNN
 F 1 "SK6812MINI-E" H 2306 945 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 2700 600 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 2700 600 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 525 50  0001 L TNN
 	1    2650 900 
 	-1   0    0    1   
@@ -789,7 +789,7 @@ U 1 1 60FBB181
 P 1400 900
 F 0 "LED1" H 1056 854 50  0000 R CNN
 F 1 "SK6812MINI-E" H 1056 945 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 1450 600 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 1450 600 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1500 525 50  0001 L TNN
 	1    1400 900 
 	-1   0    0    1   
@@ -819,7 +819,7 @@ U 1 1 60FD0E1A
 P 1400 1500
 F 0 "LED7" H 1744 1546 50  0000 L CNN
 F 1 "SK6812MINI-E" H 1744 1455 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 1450 1200 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 1450 1200 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1500 1125 50  0001 L TNN
 	1    1400 1500
 	1    0    0    -1  
@@ -830,7 +830,7 @@ U 1 1 60FD0F54
 P 2650 1500
 F 0 "LED8" H 2994 1546 50  0000 L CNN
 F 1 "SK6812MINI-E" H 2994 1455 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 2700 1200 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 2700 1200 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 1125 50  0001 L TNN
 	1    2650 1500
 	1    0    0    -1  
@@ -841,7 +841,7 @@ U 1 1 60FD0F5E
 P 3900 1500
 F 0 "LED9" H 4244 1546 50  0000 L CNN
 F 1 "SK6812MINI-E" H 4244 1455 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 3950 1200 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 3950 1200 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 1125 50  0001 L TNN
 	1    3900 1500
 	1    0    0    -1  
@@ -852,7 +852,7 @@ U 1 1 60FD0F68
 P 5150 1500
 F 0 "LED10" H 5494 1546 50  0000 L CNN
 F 1 "SK6812MINI-E" H 5494 1455 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 5200 1200 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 5200 1200 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5250 1125 50  0001 L TNN
 	1    5150 1500
 	1    0    0    -1  
@@ -863,7 +863,7 @@ U 1 1 60FD0F72
 P 6400 1500
 F 0 "LED11" H 6744 1546 50  0000 L CNN
 F 1 "SK6812MINI-E" H 6744 1455 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 6450 1200 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 6450 1200 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6500 1125 50  0001 L TNN
 	1    6400 1500
 	1    0    0    -1  
@@ -874,7 +874,7 @@ U 1 1 60FD0F7C
 P 7650 1500
 F 0 "LED12" H 7994 1546 50  0000 L CNN
 F 1 "SK6812MINI-E" H 7994 1455 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 7700 1200 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 7700 1200 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7750 1125 50  0001 L TNN
 	1    7650 1500
 	1    0    0    -1  
@@ -914,7 +914,7 @@ U 1 1 60FDB7E8
 P 7650 2100
 F 0 "LED18" H 7306 2054 50  0000 R CNN
 F 1 "SK6812MINI-E" H 7306 2145 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 7700 1800 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 7700 1800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7750 1725 50  0001 L TNN
 	1    7650 2100
 	-1   0    0    1   
@@ -925,7 +925,7 @@ U 1 1 60FDB9D6
 P 6400 2100
 F 0 "LED17" H 6056 2054 50  0000 R CNN
 F 1 "SK6812MINI-E" H 6056 2145 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 6450 1800 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 6450 1800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6500 1725 50  0001 L TNN
 	1    6400 2100
 	-1   0    0    1   
@@ -936,7 +936,7 @@ U 1 1 60FDB9E0
 P 5150 2100
 F 0 "LED16" H 4806 2054 50  0000 R CNN
 F 1 "SK6812MINI-E" H 4806 2145 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 5200 1800 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 5200 1800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5250 1725 50  0001 L TNN
 	1    5150 2100
 	-1   0    0    1   
@@ -947,7 +947,7 @@ U 1 1 60FDB9EA
 P 3900 2100
 F 0 "LED15" H 3556 2054 50  0000 R CNN
 F 1 "SK6812MINI-E" H 3556 2145 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 3950 1800 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 3950 1800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 1725 50  0001 L TNN
 	1    3900 2100
 	-1   0    0    1   
@@ -958,7 +958,7 @@ U 1 1 60FDB9F4
 P 2650 2100
 F 0 "LED14" H 2306 2054 50  0000 R CNN
 F 1 "SK6812MINI-E" H 2306 2145 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 2700 1800 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 2700 1800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 1725 50  0001 L TNN
 	1    2650 2100
 	-1   0    0    1   
@@ -969,7 +969,7 @@ U 1 1 60FDB9FE
 P 1400 2100
 F 0 "LED13" H 1056 2054 50  0000 R CNN
 F 1 "SK6812MINI-E" H 1056 2145 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 1450 1800 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 1450 1800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1500 1725 50  0001 L TNN
 	1    1400 2100
 	-1   0    0    1   
@@ -1005,7 +1005,7 @@ U 1 1 60FECCD3
 P 1400 2700
 F 0 "LED20" H 1744 2746 50  0000 L CNN
 F 1 "SK6812MINI-E" H 1744 2655 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 1450 2400 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 1450 2400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1500 2325 50  0001 L TNN
 	1    1400 2700
 	1    0    0    -1  
@@ -1016,7 +1016,7 @@ U 1 1 60FECF75
 P 2650 2700
 F 0 "LED21" H 2994 2746 50  0000 L CNN
 F 1 "SK6812MINI-E" H 2994 2655 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 2700 2400 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 2700 2400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 2325 50  0001 L TNN
 	1    2650 2700
 	1    0    0    -1  
@@ -1027,7 +1027,7 @@ U 1 1 60FECF7F
 P 3900 2700
 F 0 "LED22" H 4244 2746 50  0000 L CNN
 F 1 "SK6812MINI-E" H 4244 2655 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 3950 2400 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 3950 2400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 2325 50  0001 L TNN
 	1    3900 2700
 	1    0    0    -1  
@@ -1038,7 +1038,7 @@ U 1 1 60FECF89
 P 5150 2700
 F 0 "LED23" H 5494 2746 50  0000 L CNN
 F 1 "SK6812MINI-E" H 5494 2655 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 5200 2400 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 5200 2400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5250 2325 50  0001 L TNN
 	1    5150 2700
 	1    0    0    -1  
@@ -1049,7 +1049,7 @@ U 1 1 60FECF93
 P 6400 2700
 F 0 "LED24" H 6744 2746 50  0000 L CNN
 F 1 "SK6812MINI-E" H 6744 2655 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 6450 2400 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 6450 2400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6500 2325 50  0001 L TNN
 	1    6400 2700
 	1    0    0    -1  
@@ -1060,7 +1060,7 @@ U 1 1 60FECF9D
 P 8900 2100
 F 0 "LED19" H 8556 2054 50  0000 R CNN
 F 1 "SK6812MINI-E" H 8556 2145 50  0000 R CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 8950 1800 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 8950 1800 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 9000 1725 50  0001 L TNN
 	1    8900 2100
 	-1   0    0    1   
@@ -1098,7 +1098,7 @@ U 1 1 6100F20B
 P 8900 2700
 F 0 "LED25" H 9244 2746 50  0000 L CNN
 F 1 "SK6812MINI-E" H 9244 2655 50  0000 L CNN
-F 2 "kicad-keyboard-parts:MX_SK6812MINI-E" H 8950 2400 50  0001 L TNN
+F 2 "parts:SK6812MINI-E_reversible" H 8950 2400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 9000 2325 50  0001 L TNN
 	1    8900 2700
 	1    0    0    -1  
