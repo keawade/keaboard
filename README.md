@@ -12,7 +12,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 ## Primary Features
 
 - Split
-- Ortho stagger
+- Columnular stagger
 - Wireless option
 - Hot swap MX switches
 - Reversible PCB
@@ -60,7 +60,7 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 ## Firmware
 
 - [QMK Firmware][keaboardQmk]
-- [ZMK Firmware (WIP)][keaboardZmk]
+- [ZMK Firmware][keaboardZmk]
 
 ## Potential Future Revisions
 
@@ -78,4 +78,4 @@ Inspired by the [ErgoTravel][ergotravel] keyboard designed by @jpconstantineau.
 [slideSwitch]: https://www.digikey.com/product-detail/en/nidec-copal-electronics/CUS-12TB/563-1102-1-ND/1124231
 [resetSwitch]: https://www.digikey.com/product-detail/en/panasonic-electronic-components/EVQ-9P701P/P19095CT-ND/5872974
 [keaboardQmk]: https://github.com/keawade/qmk_firmware/tree/keaboard
-[keaboardZmk]: https://github.com/keawade/zmk/tree/keaboard
+[keaboardZmk]: https://github.com/keawade/keaboard-zmk-config
